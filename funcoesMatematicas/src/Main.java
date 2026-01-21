@@ -25,3 +25,10 @@ public class Main {
         System.out.println("valor absoluto de " + z + " = " + B);
     }
 }
+
+/*
+* sqrt = raiz quadrada
+* pow = potenciação
+* abs = valor absoluto
+* mais funções em: java.lang.Math
+* */
