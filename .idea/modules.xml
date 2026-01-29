@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomaValores/SomaValores.iml" filepath="$PROJECT_DIR$/SomaValores/SomaValores.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estudosJava.iml" filepath="$PROJECT_DIR$/.idea/estudosJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/funcoesMatematicas/funcoesMatematicas.iml" filepath="$PROJECT_DIR$/funcoesMatematicas/funcoesMatematicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/projeto1/projeto1.iml" filepath="$PROJECT_DIR$/projeto1/projeto1.iml" />
