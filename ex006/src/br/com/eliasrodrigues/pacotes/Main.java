@@ -1,3 +1,5 @@
+package br.com.eliasrodrigues.pacotes;
+
 import java.util.Locale;
 import java.util.Scanner;
 
