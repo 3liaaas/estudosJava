@@ -14,8 +14,8 @@ public class FastFood {
         } else if(codigo == 2){
             total = quantidade * 4.50;
         } else if (codigo == 3) {
-            total = quantidade * 5.00
+            total = quantidade * 5.00;
         }
         }
     }
-}
+
