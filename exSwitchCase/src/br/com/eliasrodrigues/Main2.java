@@ -34,6 +34,7 @@ public class Main2 {
             dia = "dia inválido";
             break;
 
+            // testando switch case com exercício
         }
         sc.close();
         System.out.printf("dia da semana: " + dia);
