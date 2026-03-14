@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/funcoesMatematicas/funcoesMatematicas.iml" filepath="$PROJECT_DIR$/funcoesMatematicas/funcoesMatematicas.iml" />
       <module fileurl="file://$PROJECT_DIR$/projeto1/projeto1.iml" filepath="$PROJECT_DIR$/projeto1/projeto1.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetoteste/projetoteste.iml" filepath="$PROJECT_DIR$/projetoteste/projetoteste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testesWhile/testesWhile.iml" filepath="$PROJECT_DIR$/testesWhile/testesWhile.iml" />
     </modules>
   </component>
 </project>
