@@ -21,7 +21,14 @@ public class ex003 {
             else if(tipo == 3){
                 alcool++;
             }
+
+            tipo = sc.nextInt();
         }
+        System.out.println("Muito obrigado");
+        System.out.println("Alcool: " + alcool);
+        System.out.println("Gasolina: " + gasolina);
+        System.out.println("Diesel: " + diesel);
+
         sc.close();
     }
 }
