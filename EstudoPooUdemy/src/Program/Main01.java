@@ -1,10 +1,10 @@
-package application;
+package entities;
 import java.util.Scanner;
 
 public class Main01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        double xA, xB, xC, yA, yB, yC;
+        Triangle x, y;
 
         System.out.println
             ("Enter the measures of triangule X: ");
@@ -38,6 +38,16 @@ public class Main01 {
 
     }
 
+    /*
+    *
+    *Triângulo é uma entidade com três atributos: a, b, c.
+    *
+    * Estamos usando três variáveis distintas para representar cada triângulo:
+    *
+    * double aX, bX, cX, aY, bY, cY;
+    *
+    * Para melhorar isso, vamos usar uma CLASSE para representar um triângulo.
+    * */
 
 
 }
