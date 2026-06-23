@@ -1,5 +1,6 @@
 package application;
 
+import com.sun.security.jgss.GSSUtil;
 import entities.Product;
 // não esquecer de importar a classe quando estiver em outro arquivo
 import java.util.Locale;
@@ -22,7 +23,23 @@ public class Program {
         System.out.println("Quantity in stock: ");
         product.quantity = sc.nextInt();
 
-        System.out.println(product.toString());
+        System.out.println("Product data: " + product.toString());
+
+        System.out.println();
+        System.out.println("Enter the number of products to be added in stock: ");
+        int quantity = sc.nextInt();
+        product.addProducts(quantity);
+
+        System.out.println();
+        System.out.println("Updated data: " + product);
+
+        System.out.println();
+        System.out.println("Enter the number of products to be removed from stock: ");
+
+        int removeQuantity = sc.nextInt();
+        product.RemoveProducts(removeQuantity);
+        System.out.println("Updated data: " + product);
+
 
         sc.close();
     }
