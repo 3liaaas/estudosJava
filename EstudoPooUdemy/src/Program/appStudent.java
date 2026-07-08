@@ -15,11 +15,11 @@ public class appStudent {
         student.grade2 = sc.nextDouble();
         student.grade3 = sc.nextDouble();
 
-        System.out.println("FINAL GRADE: %.2f%n", student.finalGrade());
+        System.out.printf("FINAL GRADE: %.2f%n", student.finalGrade());
 
         if (student.finalGrade() < 60.0) {
             System.out.println("Failed.");
-            System.out.println("Missing %.2f Point%n", student.missingPoints());
+            System.out.printf("Missing %.2f Point%n", student.missingPoints());
         }else {
             System.out.println("Pass.");
         }
