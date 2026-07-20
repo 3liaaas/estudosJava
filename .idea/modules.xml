@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/EstudoPooUdemy/DolarCottation/DolarCottation.iml" filepath="$PROJECT_DIR$/EstudoPooUdemy/DolarCottation/DolarCottation.iml" />
       <module fileurl="file://$PROJECT_DIR$/EstudoPooUdemy/EstudoPooUdemy.iml" filepath="$PROJECT_DIR$/EstudoPooUdemy/EstudoPooUdemy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SomaValores/Ex001SomaValores.iml" filepath="$PROJECT_DIR$/SomaValores/Ex001SomaValores.iml" />
       <module fileurl="file://$PROJECT_DIR$/uri1002/Ex002uri1002.iml" filepath="$PROJECT_DIR$/uri1002/Ex002uri1002.iml" />
